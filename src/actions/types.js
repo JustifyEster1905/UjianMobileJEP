@@ -1,0 +1,11 @@
+export const EMAIL_CHANGED = 'email_changed';
+export const PASSWORD_CHANGED = 'password_changed';
+export const LOGIN_USER_SUCCESS = 'login_user_success';
+export const LOGIN_USER_FAIL = 'login_user_fail';
+export const LOGIN_USER = 'login_user';
+export const PICTURE_UPDATE = 'picture_update';
+export const PICTURE_CREATE  = 'picture_create';
+export const PICTURE_GETLIST_SUCCESS = 'picture_getlist_success';
+export const CLEAR_FORM = 'clear_form';
+export const LOGOUT_USER = 'logout_user';
+export const NOT_LOGIN_YET = 'not_login_yet';
